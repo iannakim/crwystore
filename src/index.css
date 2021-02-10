@@ -11,14 +11,13 @@ code {
 }
 
 .shoeImage {
-  max-width: 400px;
-  min-width: 200px;
+  min-width: 150px;
   width: 100%;
   background-color: rgb(242, 242, 242);
 }
 
 .shoeInfo {
-  margin: 15px 0px 40px 5px;
+  margin: 15px 0px 40px 0px;
   font-family: 'Helvetica Neue', sans-serif;
   text-align: left;
   line-height: .8em;
@@ -28,5 +27,27 @@ h2 {
   margin: 15px 0px 40px 0px;
   font-weight: 700;
 }
+
+h3 {
+  font-size: 1rem;
+}
+
+p {
+  font-size: .9rem;
+}
 /* margin order: top right bottom left */
 
+.price-min, .price-max, .price {
+  font-size: .9rem;
+  font-family: 'Helvetica Neue', sans-serif;
+  font-weight: 700;
+}
+
+.price-min {
+  color: rgb(10, 148, 10);
+}
+
+.price-max {
+  color:rgb(163, 160, 160);
+  text-decoration: line-through;
+}

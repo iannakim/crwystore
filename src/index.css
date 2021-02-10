@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.shoeImage {
+  max-width: 400px;
+  min-width: 200px;
+  width: 100%;
+  background-color: rgb(242, 242, 242);
+}
+
+.shoeInfo {
+  margin: 15px 0px 40px 5px;
+  font-family: Helvetica, sans-serif;
+  text-align: left;
+  line-height: .8em;
+}
+
+/* margin order: top right bottom left */
+

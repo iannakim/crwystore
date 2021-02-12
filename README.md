@@ -1,5 +1,5 @@
-# Getting Started with Create React App
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Product Gallery Page Using React | CSS
+Built for demonstartion purposes
 
 ## Set Up
  * Clone this repo into your local computer using the ssh key

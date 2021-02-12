@@ -1,5 +1,5 @@
 # Product Gallery Page Using React | CSS
-Built for demonstartion purposes
+Built for demonstration purposes
 
 ## Set Up
  * Clone this repo into your local computer using the ssh key
